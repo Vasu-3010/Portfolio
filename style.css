@@ -271,11 +271,12 @@ span{
 }
 
 .portfolio-container .portfolio-box{
-    position: relative;
+    position: center;
     border-radius: 2rem;
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
+    
 }
 
 .portfolio-box img{
@@ -536,4 +537,5 @@ span{
     .contact form .input-box input{
         width: 100%;
     }
+
 }
